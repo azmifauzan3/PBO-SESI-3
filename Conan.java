@@ -28,7 +28,7 @@ public class Conan {
     Human jebolanDon = new Human("Filson Fisk", 42, "Nevada", 12000000);
     Human jebolanUnderboss = new Human("Gustavo Fring", 35, "Nevada", 1500000 );
     Human jebolanCapo = new Human("Jessie Pinkman", 24, "California", 900000);
-    Human jebolanNusaPutra = new Human("Syamsul Zaman", 20, "Nagrog", 700);
+    Human jebolanNusaPutra = new Human("Muhammad Azmi Fauzan", 20, "Purabaya", 700);
 
     System.out.println(getWarning(jebolanDon));
     System.out.println(getWarning(jebolanUnderboss));
